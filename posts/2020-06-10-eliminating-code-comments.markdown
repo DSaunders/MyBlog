@@ -10,7 +10,7 @@ Since that realisation, I've been making a conscious effort to eliminate the maj
 
 I find that comments generally fall into a handful of common categories. Here's how I've been dealing with each:
 
-# Comments that should be methods
+## Comments that should be methods
 
 I often find myself using a comment, when extracting code to a method would be better.
 
@@ -33,7 +33,7 @@ if (customersFirstOrder) {
 
 Now I don't need to understand _how_ free shipping is applied, only that it _is_ applied when this condition is satisfied.
 
-# Comments that explain conditionals
+## Comments that explain conditionals
 
 I write `if` statements like this a lot:
 
@@ -58,7 +58,7 @@ if (orderPaymentDue) {
 <p class="footer-text">Note: I might even go one step further here and encapsulate the predicate inside the Order object: `order.PaymentDue`</p>
 
 
-# Comments as a crutch for poor naming 
+## Comments as a crutch for poor naming 
 
 This most commonly occurs when I'm declaring a variable, then using it some time later. 
 
@@ -82,7 +82,7 @@ Process(allOutstandingOrders);
 <p class="footer-text">Note: Shorter functions, where there isn't a large gap between declaring and using a variable would also help, of course</p>
 
 
-# Comments as an excuse not to refactor
+## Comments as an excuse not to refactor
 
 I usually add these comments when I'm writing code that isn't fully-formed in my head yet.
 
@@ -94,7 +94,7 @@ _why it does it_.
 What I _should_ do is go back and refactor the code to make it self-documenting, making the comment un-necessary.
 
 
-# Comments that explain why
+## Comments that explain why
 
 These comments are probably the only ones I'm going to keep writing.
 
@@ -117,7 +117,7 @@ Comments like this get to stay.
 
 <div class="spacer"></div>
 
-# Summary
+## Summary
 
 The majority of comments I write are a born out of lazy coding, and can be eliminated by simply naming things better or adding more abstraction.
 
