@@ -2,6 +2,8 @@
 date   2020-06-10 17:00:00
 ---
 
+# Eliminating Code Comments
+
 Recently I've started to notice that the majority of comments I write are either redundant, or are excuses for other failings in my code. 
 
 Since that realisation, I've been making a conscious effort to eliminate the majority of comments from the code I write.
