@@ -1,6 +1,5 @@
 ---
 date   2015-03-03 09:00:00
-meta-description: Why your team are doing the daily stand-up wrong, and how to do it better.
 ---
 
 

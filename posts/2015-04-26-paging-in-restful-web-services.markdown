@@ -1,6 +1,5 @@
 ---
 date   2015-04-26 09:00:00
-meta-description: Why paging using the query string is my preference for RESTful API.
 ---
 
 When we're building a RESTful web service, the principles of REST tells us that a URL should represent a resource.

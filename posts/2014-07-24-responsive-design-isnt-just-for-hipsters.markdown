@@ -1,6 +1,5 @@
 ---
 date   2014-07-24 09:00:00
-meta-description: How responsive CSS is now a necessity, even in enterprise web applications
 ---
 
 

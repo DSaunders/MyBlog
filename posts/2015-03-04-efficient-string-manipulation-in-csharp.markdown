@@ -1,6 +1,5 @@
 ---
 date   2015-03-03 09:00:00
-meta-description: Efficiently concatinating strings in C#
 ---
 
 Strings are immutable in C#. That means that string concatination done wrong can create loads of redundant strings, meaning more work for the garbage collector to do.

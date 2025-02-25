@@ -1,6 +1,5 @@
 ---
 date   2014-10-20 09:00:00
-meta-description: Displaying the cost of a custom uCommerce shipping method without applying it to the basket
 ---
 
 So you've built a custom shipping method service in uCommerce, using *IShippingMethodService*, as described in this article:

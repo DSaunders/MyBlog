@@ -1,6 +1,5 @@
 ---
 date   2014-10-27 09:00:00
-meta-description: Why alt tags matter, and why every image on your site should have one.
 ---
 
 When a person who is visually impaired visits your site, your use of 'alt'

@@ -47,7 +47,7 @@ If nothing else, it helps with the imposter syndrome.
 This Twitter thread is great:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I don’t have a CS degree so I&#39;ve had to learn on my own. Thread on creating your own CS degree online.&mdash; Randall Kanna (@RandallKanna) <a href="https://twitter.com/RandallKanna/status/1274133745222615041?ref_src=twsrc%5Etfw">June 20, 2020</a></p>
-</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</blockquote>
 
 
 
