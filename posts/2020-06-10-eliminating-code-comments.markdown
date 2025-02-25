@@ -1,5 +1,5 @@
 ---
-date   2020-06-10 17:00:00
+date: 2020-06-10 17:00:00
 ---
 
 # Eliminating Code Comments
