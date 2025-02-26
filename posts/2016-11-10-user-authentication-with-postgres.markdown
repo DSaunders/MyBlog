@@ -2,6 +2,8 @@
 date: 2016-11-10 17:00:00
 ---
 
+# User authentication with postgres
+
 We all know that we must salt and hash our passwords before we store them in the database.
 
 Handily, Postgres can do this for you using the `pgcrypto` module. That means we don't need to worry about writing the code to do it ourselves, and we can create and authenticate users using simple SQL statements.

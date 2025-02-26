@@ -2,6 +2,8 @@
 date: 2015-04-26 09:00:00
 ---
 
+# Paging in restful web services
+
 When we're building a RESTful web service, the principles of REST tells us that a URL should represent a resource.
 
 So ``/api/products/123`` will represent the product with an ID of 123.

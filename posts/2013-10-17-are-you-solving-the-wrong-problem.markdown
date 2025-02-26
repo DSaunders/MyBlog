@@ -2,6 +2,8 @@
 date: 2013-10-17 17:00:00
 ---
 
+# Are you solving the wrong problem
+
 I can sum up what I have learnt this week in one sentence:
 
 If the problem seems too difficult, you might be solving the wrong problem.

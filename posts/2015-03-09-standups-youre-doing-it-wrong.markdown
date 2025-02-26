@@ -2,6 +2,7 @@
 date: 2015-03-03 09:00:00
 ---
 
+# Standups: you're doing it wrong
 
 Yes, this title is deliberately click-bait :)
 

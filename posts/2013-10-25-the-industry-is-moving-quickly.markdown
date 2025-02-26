@@ -2,6 +2,8 @@
 date: 2013-10-25 17:00:00
 ---
 
+# The industry is moving quickly
+
 You’ve been in the same job for a while and you’re pretty comfortable. Your work doesn’t vary much from day to day and you’re quite settled there. You don’t do too much coding outside of work; why would you? You spend eight hours a day writing code already, right?
 
 Your value as a developer is going down every day!

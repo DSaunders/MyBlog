@@ -2,6 +2,8 @@
 date: 2015-05-10 09:00:00
 ---
 
+# How to ask for estimates
+
 Nobody likes estimating software projects, but it's a fact of life. While the <a href="https://twitter.com/search?q=%23NoEstimates&src=tyah" target="_blank">#NoEstimates</a> movement is gaining traction, the majority of software developers are still required to estimate tasks on a regular basis.
 
 With this in mind, I'd like to explore a little known affect called 'anchoring', and how it affects our estimates.

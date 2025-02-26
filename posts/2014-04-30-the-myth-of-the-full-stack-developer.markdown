@@ -2,6 +2,8 @@
 date: 2014-04-30 18:00:00
 ---
 
+# The myth of the full stack developer
+
 I consider myself to be a *full-stack* developer. That is, I feel competent in
 both front-end and back-end development.
 

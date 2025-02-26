@@ -2,6 +2,7 @@
 date: 2014-07-24 09:00:00
 ---
 
+# Responsive design isn't just for hipsters
 
 I used to write software that was used to X-ray trucks at border crossings. The user interface for this software was web based. We provided, installed and maintained the servers, the workstations, the monitors and, most importantly, the software.
 

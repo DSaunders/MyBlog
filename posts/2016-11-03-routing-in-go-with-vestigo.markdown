@@ -2,6 +2,8 @@
 date: 2016-11-03 10:00:00
 ---
 
+# Routing in go with vestigo
+
 I was recently looking for an easy way to do routing in Go.
 
 There are a few packages out there, but they all feel a little too heavy. I wanted something that just did simple routing, with little overhead.

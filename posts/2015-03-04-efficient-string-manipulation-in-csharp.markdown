@@ -2,6 +2,8 @@
 date: 2015-03-03 09:00:00
 ---
 
+# Efficient string manipulation in C#
+
 Strings are immutable in C#. That means that string concatination done wrong can create loads of redundant strings, meaning more work for the garbage collector to do.
 
 Let's take a look at the various ways that we can concatinate strings and see what's actually happening behind the scenes.

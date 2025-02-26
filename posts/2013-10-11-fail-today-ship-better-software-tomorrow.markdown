@@ -2,6 +2,8 @@
 date: 2013-10-11 17:00:00
 ---
 
+# Fail today ship better software tomorrow
+
 I am privileged to work with people who are very interested in the Agile work flow and Continuous Integration.  As I learn more about these things myself, I realise there is a common theme across everything we are trying to achieve:
 
 *Fail as quickly as possible.*

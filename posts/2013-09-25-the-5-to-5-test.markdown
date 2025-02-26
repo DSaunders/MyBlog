@@ -2,6 +2,8 @@
 date: 2013-09-25 17:00:00
 ---
 
+# The 5 to 5 test
+
 Everybody has their threshold, the point where the nice shiny new DevOps process goes out of the window  and it’s just easier to do it the old way.
 
 I reached mine at 7:15pm.  After hours of struggling with deployments, it was just easier to change the code on the live site and commit it to source control later.  That brilliant new Continuous Integration pipeline went out of the window and was replaced by a copy of Notepad.  I knew it was wrong, and I felt bad afterwards, but I did it anyway.

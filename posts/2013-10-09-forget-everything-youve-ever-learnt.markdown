@@ -2,6 +2,8 @@
 date: 2013-10-09 17:00:00
 ---
 
+# Forget everything you've ever learnt
+
 I previously worked somewhere where I spent about a third of my time in C++. I had to learn how much memory to allocate (only as much as you need) and when dispose of it again (as soon as possible).  I struggled with pointers-to-pointers and had regular fights with threading.
 
 Now, I work almost entirely in C# and I’m unlikely to ever go back to C++.  Now I don’t know (or care) whether the variables I’m using live in memory for a second or an hour, it’s all done for me (and frankly much better than I could do it myself).

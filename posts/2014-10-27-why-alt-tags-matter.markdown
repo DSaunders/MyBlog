@@ -2,6 +2,8 @@
 date: 2014-10-27 09:00:00
 ---
 
+# Why alt tags matter
+
 When a person who is visually impaired visits your site, your use of 'alt'
 attributes on images can have a huge impact on their experience.
 

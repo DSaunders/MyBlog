@@ -2,6 +2,8 @@
 date: 2017-06-07 17:00:00
 ---
 
+# Google AMP: The wrong answer to the right question
+
 You  may have heard of [Google's AMP (Accelerated Mobile Pages)](https://www.ampproject.org/) project. It is intended to 'make the web better for all', by helping developers to create websites that look and perform consistently on all devices.
 
 Essentially, you create another version of your page using a subset of HTML, JS and CSS (and some AMP-specific tags). These pages are then shown in Google's mobile search results accompanied by a ⚡ logo. 

@@ -2,6 +2,7 @@
 date: 2013-09-19 17:00:00
 ---
 
+# It's about the journey
 
 My hard disk and GitHub account are both full of unfinished side projects. I
 think if pressed, I could dig up 10-15 things I started and didn’t finish.

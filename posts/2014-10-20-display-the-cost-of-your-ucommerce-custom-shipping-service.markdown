@@ -2,6 +2,8 @@
 date: 2014-10-20 09:00:00
 ---
 
+# Display the cost of your ucommerce custom shipping service
+
 So you've built a custom shipping method service in uCommerce, using *IShippingMethodService*, as described in this article:
 <a href="http://docs.ucommerce.net/ucommerce/v6/extending-ucommerce/shipping-method-service.html" target="_blank">Building a Custom Shipping Method Service</a>
 

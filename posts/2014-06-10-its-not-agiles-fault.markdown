@@ -2,6 +2,8 @@
 date: 2014-06-10 18:00:00
 ---
 
+# It's not agile's fault
+
 
 Recently, [Mike Hadlow](https://twitter.com/mikehadlow) wrote a great article entitled ['Heisenberg Developers'](http://mikehadlow.blogspot.co.uk/2014/06/heisenberg-developers.html).
 

@@ -2,6 +2,7 @@
 date: 2017-05-06 10:00:00
 ---
 
+# Leaking memory with lambda expressions
 
 Lambda expressions are a great feature of C#, but it's also quite easy to accidentally 'leak' memory when using them.
 

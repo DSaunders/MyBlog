@@ -2,6 +2,8 @@
 date: 2014-03-22 11:00:00
 ---
 
+# The public face of your API
+
 We generally talk about APIs as something we call over HTTP to interact with
 a third party service, but of course any time you do this:
 

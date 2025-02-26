@@ -2,6 +2,8 @@
 date: 2013-09-27 17:00:00
 ---
 
+# Bug now pay later
+
 I was recently fortunate enough to go to the .NET Rocks! UK tour.  In it, Richard Campbell talked briefly about ‘technical debt’.  I thought it would be interesting to explore that metaphor further in a blog post.
 
 Technical debt is when we write code we know will cause us problems later.  That could be because it’s the easy way out, or perhaps because we just don’t know how to tackle the problem any better right now.

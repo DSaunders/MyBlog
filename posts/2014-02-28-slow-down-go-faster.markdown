@@ -2,6 +2,8 @@
 date: 2014-02-28 17:00:00
 ---
 
+# Slow down go faster
+
 We always want to move faster; faster requirements capture, faster and more efficient coding, faster to production. That’s all well and good, but if we try to go too fast, to soon, things can go really bad.
 
 Let’s take a step back, take a breath and slow down.

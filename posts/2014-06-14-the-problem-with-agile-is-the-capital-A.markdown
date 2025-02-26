@@ -2,6 +2,8 @@
 date: 2014-06-16 09:00:00
 ---
 
+# The problem with agile is the capital A
+
 The principles of agile are fantastic. I've worked on projects that are both waterfall, agile and somewhere in between and, as a developer, I can't sing the praises of *being agile* high enough.
 
 Projects feel more controlled, with less risk, and we *usually* deliver most of what the stakeholder wanted at the end of it all. The authors of the [Agile Manifesto](http://agilemanifesto.org/) got it spot on.
