@@ -1,5 +1,5 @@
 ---
-date   2014-06-10 18:00:00
+date: 2014-06-10 18:00:00
 ---
 
 
@@ -11,7 +11,7 @@ The article is a great cautionary tale about how not to alienate your developmen
 
 It doesn't have to be this way..
 
-# Micro-management of features
+## Micro-management of features
 
 Mike describes how a process was put in place that required developers to split larger requirements into smaller tasks, until everything was less than a day long.
 
@@ -27,7 +27,7 @@ Once a developer works on a user story, that story belongs to them. They are res
 
 Breaking larger features into smaller tasks has other benefits too. It forces the stakeholder to be more specific about their requirements. It would love to be able to spend a few weeks working on a feature totally uninterrupted. The chances are though, that what I develop would have little relation to what the stakeholder wanted. Small user-stories force this out into the open before we write a single line of code.
 
-# Sprint planning
+## Sprint planning
 
 > As soon as you ask a developer to tell you exactly what he’s going to do over the next 8 days (or worse weeks or months), you kill much of the creativity and serendipity.
 
@@ -40,7 +40,7 @@ Developers should not be tied strictly to these estimates; sometimes we get it r
 I dislike estimates as much as the next guy, but if I was paying the bills, I'd like to have at least a rough idea what functionality I was going to be getting for the next 2 weeks of my development budget.
 
 
-# Lack of refactoring
+## Lack of refactoring
 
 Mike talks about how they could not refactor their code when they needed to.
 
@@ -51,7 +51,7 @@ I have to say that refactoring is not automatically out of the question in an ag
 A user-story is not 'done' until the developer is happy with the code. If a developer finds something they can improve along the way, it is their professional responsibility to fix it. Not doing so will ultimately slow the project down in the long run (as Mike describes in his article) as the technical debt mounts up.
 
 
-# Being measured
+## Being measured
 
 The crux of the article is that by measuring a developer, you slow them down. Whilst I think this is true in the case of Mike's team, with Mike's management, I don't think it's always true.
 
@@ -60,7 +60,7 @@ I'm a data geek, and I actually love having metrics around the development proce
 The danger of this is that we measure *developers* instead of the *team*. The metrics are designed to make the team more efficient, if we start to hold individual developers accountable then it becomes every man for himself and all is lost.
 
 
-# Conclusion
+## Conclusion
 
 I agree with almost everything Mike says in his article. I would have the same feelings had I been in that team. To be clear, Mike never once says that the entire 'agile' process is wrong.
 

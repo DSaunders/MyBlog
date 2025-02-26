@@ -1,5 +1,5 @@
 ---
-date   2016-11-03 10:00:00
+date: 2016-11-03 10:00:00
 ---
 
 I was recently looking for an easy way to do routing in Go.
@@ -9,7 +9,7 @@ There are a few packages out there, but they all feel a little too heavy. I want
 I stumbled across <a href="https://github.com/husobee/vestigo" target="_blank">Vestigo</a>. It's really simple and looks a lot like the normal code you would write with Go's <code>net/http</code> package, only with some routing goodness on top.
 
 
-# Using Vestigo
+## Using Vestigo
 Firstly, grab the vestigo package:
 
 ```bash
@@ -58,7 +58,7 @@ That's all there is to it!
 
 
 
-# Further reading
+## Further reading
 
 If you want to find out more about Vestigo, check out these links:
 

@@ -1,5 +1,5 @@
 ---
-date   2014-03-22 11:00:00
+date: 2014-03-22 11:00:00
 ---
 
 We generally talk about APIs as something we call over HTTP to interact with
@@ -18,7 +18,7 @@ functionality. It's easy to get that wrong.
 Here are some points to consider when writing your next public class.
 
 
-# 1. Sharing too much in public
+## 1. Sharing too much in public
 
 Always use the *principle of least privilege*. That means that you only expose
 the minimum necessary for the consumer of your API to get the job done.
@@ -30,7 +30,7 @@ Think about what the consumer of your API *needs* to see. If they don't *need* i
  make it private.
 
 
-# 2. Leaking implementation details
+## 2. Leaking implementation details
 
 When designing a class or interface, it is generally a bad idea to expose
 *how it works* to the consumer, they only need to know *what it does*.
@@ -71,7 +71,7 @@ We should also be using an interface and an IoC container so that the caller
 does not need to rely on our concrete class, but this is an over-simplified
 example so you'll have to let me off on this occassion.
 
-# 3. Little or no documentation
+## 3. Little or no documentation
 
 There are few things worse that typing a method name out, expecting the IDE
 to tell you what the parameters are and what they do.. and seeing nothing.
@@ -81,7 +81,7 @@ Visual Studio has great facilities for doing this, making it so easy that there
 is really no reason *not* to do it.
 
 
-# 4. Poor naming
+## 4. Poor naming
 
 Just because you have good documentation, it does not mean you can just use
 any old method name and expect people to figure out what it does.
@@ -115,7 +115,7 @@ the full name of a method? Auto-complete is pretty good; long method names are
 not an issue (until they get the point where they compromise readability).
 
 
-# 5. Incompleteness
+## 5. Incompleteness
 
 To the consumer of an API, this will seriously ruin your day:
 
@@ -135,7 +135,7 @@ With any luck, the developer will see it at design time, before their
 application actually throws your exception.
 
 
-# 6.
+## 6.
 
 ```csharp
 This part of the post is not implemented yet.

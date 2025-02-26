@@ -1,5 +1,5 @@
 ---
-date   2014-10-27 09:00:00
+date: 2014-10-27 09:00:00
 ---
 
 When a person who is visually impaired visits your site, your use of 'alt'
@@ -8,7 +8,7 @@ attributes on images can have a huge impact on their experience.
 I tested a simple page using the screen reader included with OSX called *VoiceOver*. I tried images *with* alt attributes, *without* alt attributes and with
 *empty* alt attributes. Let's take a look at what happens:
 
-# With an 'alt' attribute
+## With an 'alt' attribute
 
 ```csharp
 <img src="hero.jpg" alt="A person using the product"/>
@@ -25,7 +25,7 @@ and could distract from the content?
 Let's try *not* providing an 'alt' attribute.
 
 
-# Without an 'alt' attribute
+## Without an 'alt' attribute
 
 ```csharp
 <img src="hero.jpg" />
@@ -38,7 +38,7 @@ Here, VoiceOver reads out:
 Well that's not what we wanted. **When you don't provide an alt attribute,
 the screen reader will read the file name of the image.** A better practice  is to provide an *empty* alt attribute.
 
-# With an empty alt attribute
+## With an empty alt attribute
 
 ```csharp
 <img src="hero.jpg" alt="" />
@@ -47,7 +47,7 @@ the screen reader will read the file name of the image.** A better practice  is 
 Here the screen reader skips the image altogether, as if it wasn't there. That's a much better experience for a visually impaired user than the
 content being interrupted with file names.
 
-# 'Hang on, we're doing the responsive thing'
+## 'Hang on, we're doing the responsive thing'
 
 If you're building a responsive site, you're probably using
 *backround-image* in CSS to swap out the images using media queries.
@@ -79,7 +79,7 @@ Here, the screen reader reads:
 That's much better.
 
 
-# The moral of the story
+## The moral of the story
 
 If the image is **important to the content**, describe it in the alt attribute.
 

@@ -1,5 +1,5 @@
 ---
-date   2014-06-16 09:00:00
+date: 2014-06-16 09:00:00
 ---
 
 The principles of agile are fantastic. I've worked on projects that are both waterfall, agile and somewhere in between and, as a developer, I can't sing the praises of *being agile* high enough.

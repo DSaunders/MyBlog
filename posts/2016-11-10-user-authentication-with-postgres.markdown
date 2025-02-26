@@ -1,5 +1,5 @@
 ---
-date   2016-11-10 17:00:00
+date: 2016-11-10 17:00:00
 ---
 
 We all know that we must salt and hash our passwords before we store them in the database.
@@ -8,7 +8,7 @@ Handily, Postgres can do this for you using the `pgcrypto` module. That means we
 
 We'll be using the `psql` command line tool for this, but in a real app we'd be doing this in code.
 
-# Getting started
+## Getting started
 
 We'll need somewhere to put our fake users, so let's create a database:
 
@@ -34,7 +34,7 @@ CREATE TABLE users (
 
 Of course, in a real implementation our user would have an ID, and probably some other attributes, but this will do for testing.
 
-# Adding new users
+## Adding new users
 
 When we add new users to our table, we use the `crypt` function. The first parameter is the user's password. The second is the `gen_salt` function.
 This generates the salt for our password, and also tells the `crypt` function which hashing algorithm to use.
@@ -57,7 +57,7 @@ SELECT * FROM users;
 (1 row)
 ```
 
-# Authenticating users
+## Authenticating users
 
 Authenticating a user is just a simple `SELECT`.
 
@@ -93,7 +93,7 @@ SELECT * FROM users WHERE
 
 Authenticating a user is now a simple as checking whether a user is returned from this `SELECT` query.
 
-# Conclusion
+## Conclusion
 
 So, you can see that it's really easy to do hashing and user authentication using just Postgres and pgcrypto - by letting the database do all of the work for us.
 

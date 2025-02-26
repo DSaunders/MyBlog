@@ -1,5 +1,5 @@
 ---
-date   2014-10-20 09:00:00
+date: 2014-10-20 09:00:00
 ---
 
 So you've built a custom shipping method service in uCommerce, using *IShippingMethodService*, as described in this article:
@@ -13,7 +13,7 @@ Wiggle does this well:
 
 But how do you do this when you're using a custom uCommerce *IShippingMethodService*, and you have your own logic for calculating the shipping costs of an order?
 
-# Why you can't use ShippingMethod.GetPriceForCurrency()
+## Why you can't use ShippingMethod.GetPriceForCurrency()
 
 Once you've told uCommerce to use your new *IShippingMethodService* for a shipping method..
 
@@ -39,7 +39,7 @@ Unfortunately, this uCommerce method only returns the first price from the shipp
 
 It does not account for the calculations in your `IShippingMethodService`.
 
-# Getting the cost for each shipping method
+## Getting the cost for each shipping method
 
 The correct way to do it is to manually call the `IShippingMethodService`, passing your current shipment.
 

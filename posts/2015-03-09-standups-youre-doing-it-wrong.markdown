@@ -1,5 +1,5 @@
 ---
-date   2015-03-03 09:00:00
+date: 2015-03-03 09:00:00
 ---
 
 
@@ -15,7 +15,7 @@ Do any of these sound familiar?
 
 
 
-# The stand-up is not for finding out what people are working on
+## The stand-up is not for finding out what people are working on
 
 If the daily stand-up is the only way for you to find out what other people in the team are working on, you’re probably not using the right tools.
 
@@ -25,7 +25,7 @@ If you’re a distributed team, you should be able to see what’s being worked 
 
 
 
-# The stand-up is not ‘yesterday, today, blockers’
+## The stand-up is not ‘yesterday, today, blockers’
 
 This is controversial I know, but I really don’t like this format for a stand-up.
 
@@ -40,7 +40,7 @@ I'm terrible at remembering what I did yesteray in that much detail, so it gets 
 
 
 
-# The stand-up is not a demo
+## The stand-up is not a demo
 
 There’s no reason not to have a version of the project that is updated daily (or, even better, on every commit) hosted somewhere that everybody in the team can get to. The stakeholders, project managers and anybody with an interest in the project can check this out at their leisure. 
 
@@ -48,7 +48,7 @@ If you need demonstrations to explain how features work to a stakeholder, or a r
 
 
 
-# The stand-up is not for holding developers accountable for their estimates
+## The stand-up is not for holding developers accountable for their estimates
 
 The stand-up should not feel like the Spanish inquisition for developers. **If a task has run over estimate (if you are insisting on estimates), the correct question is 
 “Is there anything we can do to help out?”, not “Why has this task taken 3 hours longer than you said it would”**.
@@ -57,7 +57,7 @@ This kind of implied pressure causes people to cut corners, or elongate future e
 
 
 
-# The stand-up is not for detailed user story analysis
+## The stand-up is not for detailed user story analysis
 
 If you are about to start a new task, and need clarification on the finer details of it, don’t make everybody else wait while you discuss it. 
 
@@ -65,7 +65,7 @@ By all means raise it, and arrange to talk about it in detail with the people in
 
 
 
-# Why bother then?
+## Why bother then?
 
 The stand-up is there to help the team move more efficiently through the project.
 

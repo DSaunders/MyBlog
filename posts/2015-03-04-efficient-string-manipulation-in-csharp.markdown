@@ -1,12 +1,12 @@
 ---
-date   2015-03-03 09:00:00
+date: 2015-03-03 09:00:00
 ---
 
 Strings are immutable in C#. That means that string concatination done wrong can create loads of redundant strings, meaning more work for the garbage collector to do.
 
 Let's take a look at the various ways that we can concatinate strings and see what's actually happening behind the scenes.
 
-# Result is known at compile time
+## Result is known at compile time
 
 This is the simplest case. If the compiler can work out what the resulting string will be, it may decide to concatinate the string for you at compile time.
 
@@ -26,7 +26,7 @@ This is obviously very efficient!
 
 
 
-# Concatinating strings on one line
+## Concatinating strings on one line
 
 I've seen answers on stackoverflow, and heard people talk anecdotally, about how concatinating multiple strings using the ``+`` opertator is bad practice.
 
@@ -47,7 +47,7 @@ This is what happens when you concatinate strings in this way:
 This is actually a very efficient way of concatinating strings. If you are concatinating strings in a loop, however, this is not the best option.
 
 
-# Concatinating strings in loop
+## Concatinating strings in loop
 
 If you were to concatinate strings in a loop using the ``+`` operator, you could potentially end up with multiple redundant string allocations:
 
@@ -84,7 +84,7 @@ Using ``StringBuilder``, there are no additional string allocations. In fact, th
 This is much more efficient when concatinating multiple strings in a loop.
 
 
-# String.Format
+## String.Format
 
 Which is more efficient?
 
@@ -115,7 +115,7 @@ You can see that any string formatting is (relatively) expensive. If all you are
 If formatting the string makes more sense, don't be afraid to use it, just know what is happening underneath.
 
 
-# Large strings
+## Large strings
 
 In some extreme cases, you might be working with very large strings that might be large enough to end up on the *Large Object Heap* (for example, large JSON strings). If the string isn't intended to be around for long, you generally *don't* want it to end up on there.
 
@@ -138,6 +138,6 @@ This means that one large ``StringBuilder`` is reduced to a linked list of small
 
 It is worth noting that if you are working with strings of this size, you might consider whether you can use a <a href="https://msdn.microsoft.com/en-us/library/system.io.stream(v=vs.110).aspx">stream</a> instead.
 
-# Conclusion
+## Conclusion
 
 As mentioned above, **readability is more important than small optimisations**. That said, when two options are equally clear, it is worth knowing which is more efficient and how they work behind the scenes.

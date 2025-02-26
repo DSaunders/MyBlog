@@ -1,5 +1,5 @@
 ---
-date   2017-06-07 17:00:00
+date: 2017-06-07 17:00:00
 ---
 
 You  may have heard of [Google's AMP (Accelerated Mobile Pages)](https://www.ampproject.org/) project. It is intended to 'make the web better for all', by helping developers to create websites that look and perform consistently on all devices.

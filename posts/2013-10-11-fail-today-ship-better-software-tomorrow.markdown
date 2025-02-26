@@ -1,5 +1,5 @@
 ---
-date   2013-10-11 17:00:00
+date: 2013-10-11 17:00:00
 ---
 
 I am privileged to work with people who are very interested in the Agile work flow and Continuous Integration.  As I learn more about these things myself, I realise there is a common theme across everything we are trying to achieve:
@@ -14,7 +14,7 @@ If we have the ability to do that, we allow people to fail without fear; which m
 
 
 
-# User Stories
+## User Stories
 
 User stories are one of the earliest stages of building a feature, where we sit down and describe how the user will interact with our product.
 
@@ -30,7 +30,7 @@ It’s better to find this out now than two weeks down the line when we are unde
 
 
 
-# Unit Tests
+## Unit Tests
 
 Isn’t it cool that we can have an automated process that will catch bugs before we even commit our code to source control?  If we have good unit tests around a feature, we have much more confidence that it will behave the way we intended.
 
@@ -42,7 +42,7 @@ This all relies on us writing good tests of course.  I am still trying to learn 
 
 
 
-# Staging/Test Servers
+## Staging/Test Servers
 
 Even if we are reasonably happy that the feature is as intended and the code is robust, it might be a good idea to stage it somewhere before letting it loose.  In an ideal world, we would do all of our development in an environment identical to that in which the final product will run.  In practice that is actually quite hard to achieve.
 

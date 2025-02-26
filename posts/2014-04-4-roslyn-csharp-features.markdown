@@ -1,5 +1,5 @@
 ---
-date   2014-04-5 17:00:00
+date: 2014-04-5 17:00:00
 ---
 
 At Build 2014, Microsoft unveiled a few new features of C#.
@@ -8,7 +8,7 @@ going to be really useful.
 
 Here's a few of my favourites.
 
-# Statics in Using Statements
+## Statics in Using Statements
 
 Visual Basic had this already, but statics in using statements are now in C#.
 
@@ -46,7 +46,7 @@ class Program
 This is a small change, but could help to make code more readable.
 
 
-# Primary Constructors
+## Primary Constructors
 
 We write code like this all the time:
 
@@ -87,7 +87,7 @@ public class Shape (private readonly int sides)
 This means that a constructor will be auto-generated, taking *sides* as an
 argument. It will then be mapped to a *private readonly* member variable.
 
-#Binary literals
+##Binary literals
 
 You can now declare binary literals, and use 'spacers' in them to make them
 more readable. Like this:
@@ -96,7 +96,7 @@ more readable. Like this:
 var binaryValue = &0010_0100
 ```
 
-# Dictionary Initialisers
+## Dictionary Initialisers
 
 In the latest C#, you can populate indexers when initialising objects.
 
@@ -115,7 +115,7 @@ var someClass = new MyClass() { ["value1"] = 1, ["value2"] = "Hello World" };
 ```
 
 
-# Indexed Members
+## Indexed Members
 
 There is a new addition that means you can make indexers
 look a little more like 'normal' members, so that:
@@ -132,7 +132,7 @@ myClass.$Value1
 
 This isn't much, but it certainly looks a lot neater.
 
-# Declaration Expressions
+## Declaration Expressions
 
 This is my *favourite* new feature. It's only small, but it's something i've been
 wanting for a long time.
@@ -157,7 +157,7 @@ var result = int.TryParse(someValue, out var outValue);
 The compiler can infer the type of the out parameter; so we
 are even allowed to use *var* here.
 
-# Exception Filters
+## Exception Filters
 
 This is another Visual Basic feature that is coming to C#. It wasn't shown in
 the demo at Build, but it allows us to add filters to our catch blocks.
@@ -180,7 +180,7 @@ catch (Exception e)
 }
 ```
 
-# So when can I use it?
+## So when can I use it?
 
 These features are currently in preview as part of the latest Roslyn release.
 It's probably best not to use this stuff in production yet, but we can already

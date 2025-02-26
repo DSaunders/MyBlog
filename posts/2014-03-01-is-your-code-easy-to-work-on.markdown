@@ -1,6 +1,8 @@
 ---
-date   2014-03-01 17:00:00
+date: 2014-03-01 17:00:00
 ---
+
+# Is your code easy to work on?
 
 In August 2000, Joel Spolsky wrote The Joel Test, a checklist to judge the quality of a software team. This is just as valid today.
 

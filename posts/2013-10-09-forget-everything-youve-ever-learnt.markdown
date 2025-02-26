@@ -1,5 +1,5 @@
 ---
-date   2013-10-09 17:00:00
+date: 2013-10-09 17:00:00
 ---
 
 I previously worked somewhere where I spent about a third of my time in C++. I had to learn how much memory to allocate (only as much as you need) and when dispose of it again (as soon as possible).  I struggled with pointers-to-pointers and had regular fights with threading.
@@ -14,7 +14,7 @@ Maybe this is good.  Maybe it means it’s OK to put all that old knowledge away
 
 
 
-# Think Differently
+## Think Differently
 
 What if we just decided that we were no longer going to try to learn everything about a framework or a language?  What if we decided to dump all that stuff and use the space to think about how to apply best practices to what we do, how to improve our workflow or to come up with some cool new ideas?
 

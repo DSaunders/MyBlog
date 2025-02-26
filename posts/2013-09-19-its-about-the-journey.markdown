@@ -1,5 +1,5 @@
 ---
-date   2013-09-19 17:00:00
+date: 2013-09-19 17:00:00
 ---
 
 
@@ -12,7 +12,7 @@ finish them, and why I think you should too.
 
 
 
-# You get to do the cool stuff
+## You get to do the cool stuff
 
 Nobody likes changing reams of copy on a website or working in a technology that should have been retired years ago.  We’ve all had to do it and we’ve all wished we didn’t have to.  Here’s the good news.. at home you can do whatever you want.
 
@@ -24,7 +24,7 @@ Some might argue that it’s important to finish things, but I find I learn a lo
 
 
 
-# There’s no pressure
+## There’s no pressure
 
 Sorry, but unless you accidentally create the next Jquery or Ruby on Rails,
 nobody is ever likely to know your project exists.  That’s a good thing; you can use side projects as an opportunity to learn new things and brush up on old skills without the pressure of a deadline or a budget.
@@ -36,7 +36,7 @@ Rather watch the football in the bar than write code tonight?  Fine, just drop i
 
 
 
-# You become a more rounded developer
+## You become a more rounded developer
 
 It’s highly unlikely that my employer will allow me to use C++ for our next
 project just because I haven’t used it for a while and need some practice.
@@ -48,7 +48,7 @@ freedom of something dynamic like Ruby.  I would be surprised if that experience
 
 
 
-# It might prove useful in the future
+## It might prove useful in the future
 
 By creating things in your own time, you are building up a library of code that you can dig into in the future.  Perhaps the code you wrote at home last month will be useful on your next project at work.  Or when a recruiter for that dream job calls you, the Twitter client you’re writing in your own time would be a great example of code to take to the interview.  Having a broad portfolio of varied work can only be a good thing.
 

@@ -1,5 +1,5 @@
 ---
-date   2010-10-24 17:00:00
+date: 2010-10-24 17:00:00
 ---
 
 Event Sourcing is a different approach to architecting your application.
@@ -23,12 +23,12 @@ Using an Event Sourcing approach, we would instead store something like this:
 | 3 | User Shared Article | User: Peter, Article: 'EventSourcing Rocks'|
 | 4 | User Liked Article | User: Sam, Article: 'EventSourcing Rocks'|
 
-## Why?
+### Why?
 
-## What is in an event?
+### What is in an event?
 The example above is simplified. In reality, there are a few things we want to persists in an event,
 
-## Naming events
+### Naming events
 
 
 ------

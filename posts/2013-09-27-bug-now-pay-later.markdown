@@ -1,5 +1,5 @@
 ---
-date   2013-09-27 17:00:00
+date: 2013-09-27 17:00:00
 ---
 
 I was recently fortunate enough to go to the .NET Rocks! UK tour.  In it, Richard Campbell talked briefly about ‘technical debt’.  I thought it would be interesting to explore that metaphor further in a blog post.
@@ -10,7 +10,7 @@ I like the term technical debt because it implies a decision on the part of the 
 
 
 
-# Borrowing against a project
+## Borrowing against a project
 
 Governments and banks are run on borrowing.  Take the money now and pay it off later, with interest. Software projects are the same.
 
@@ -22,7 +22,7 @@ Is it better to borrow now and have the instant reward (finishing a feature on t
 
 
 
-# Paying off the debt
+## Paying off the debt
 
 Waiting until your code comes back to bite you is the equivalent of waiting for the debt collectors to come knocking.  At this point all we can do is pay them as much as we can afford at the time and defer them for a while.  If we are going to accrue technical debt we have to have a strategy for paying it back.
 

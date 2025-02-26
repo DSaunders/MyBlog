@@ -1,5 +1,5 @@
 ---
-date   2014-04-30 18:00:00
+date: 2014-04-30 18:00:00
 ---
 
 I consider myself to be a *full-stack* developer. That is, I feel competent in
@@ -13,7 +13,7 @@ Now things are less simple.
 
 
 
-# So different..
+## So different..
 
 As a back-end .NET developer, there are literally thousands of libraries and
 frameworks I could use when starting a new project. Do I use Web API, MVC or
@@ -33,7 +33,7 @@ Keeping on top of the tooling for both disciplines is almost overwhelming.
 
 
 
-# .. yet so similar
+## .. yet so similar
 
 Despite the fact that there are so many things to learn in each discipline, they
 seem to be getting more similar as days go on!
@@ -49,7 +49,7 @@ inheritance!
 
 
 
-# The future of 'full-stack' development
+## The future of 'full-stack' development
 
 Of course, somebody who spends 40+ hours a week writing pure CSS and HTML is
 likely to be more skilled than somebody who only spends 50% of their time on

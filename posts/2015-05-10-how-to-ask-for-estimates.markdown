@@ -1,12 +1,12 @@
 ---
-date   2015-05-10 09:00:00
+date: 2015-05-10 09:00:00
 ---
 
 Nobody likes estimating software projects, but it's a fact of life. While the <a href="https://twitter.com/search?q=%23NoEstimates&src=tyah" target="_blank">#NoEstimates</a> movement is gaining traction, the majority of software developers are still required to estimate tasks on a regular basis.
 
 With this in mind, I'd like to explore a little known affect called 'anchoring', and how it affects our estimates.
 
-# How old was Gandhi?
+## How old was Gandhi?
 
 When we make estimates, we subconsciously tend to start with an initial value and make adjustments from there. If our initial 'anchor' is inaccurate, this adjustment is often not sufficient to bring the estimate 'back on track'.
 
@@ -22,7 +22,7 @@ or
 
 Although the answer to both of these questions are obvious, when subsequently asked for Gandhi's *real* age, those who were asked the first question estimated Gandhi's age significantly lower than those who were asked the second question!
 
-# How long will this feature take?
+## How long will this feature take?
 
 This also affects us software developers.
 
@@ -43,7 +43,7 @@ Those that were shown the document with the **20 months** anchor estimated signi
 The lower anchor caused estimates closer to the control group, but they were still lower.
 
 
-# How to ask for estimates
+## How to ask for estimates
 
 If you're **pre-estimating stories in your backlog** before sprint planning.. you are anchoring, and will affect the estimate.
 

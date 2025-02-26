@@ -1,5 +1,5 @@
 ---
-date   2015-04-26 09:00:00
+date: 2015-04-26 09:00:00
 ---
 
 When we're building a RESTful web service, the principles of REST tells us that a URL should represent a resource.
@@ -11,7 +11,7 @@ That's all well and good, but what if there are thousands of products? We can't 
 
 We have a number of options available to us, but my personal opinion is that we should use the query string.
 
-# Why query string paging?
+## Why query string paging?
 
 Using the query string for paging is easy for the consumer to test in a browser and easy to reason about.
 
@@ -29,7 +29,7 @@ I've seen some responses on Stack Overflow that discourage the query string bein
 
 Which seems to indicate that we can use the query string to help represent the resource. I would argue that *offset* and *limit* information is 'non-hierarchical' data, and thus is permitted.
 
-# Linking between pages
+## Linking between pages
 
 RESTful web services should provide 'dicoverability'. In other words, one resource should link to another so that the consumer can navigate the API using only these links.
 
@@ -53,7 +53,7 @@ Here is an example (this uses the <a href="http://stateless.co/hal_specification
 
 Because we're using the query string, it's really easy to provide links to the next page. It's also very easy for the consumer of our API to understand and modify for their needs.
 
-# Linking to the resource from another resource
+## Linking to the resource from another resource
 
 We need to be able to link to this resource from other pages, for example:
 ```csharp
@@ -100,7 +100,7 @@ For our ``products`` resource, it would look like this:
 ```
 I find this to be much clearer.
 
-# Total count
+## Total count
 
 Finally, it's also nice to include the *total* amount of ``products`` availble.
 
@@ -109,7 +109,7 @@ The most common way to do this is with a custom HTTP response header (for exampl
 There's nothing to say you *have* to do this, but it's good practice to do so and the consumers of your API will thank you for it.
 
 
-# Further reading
+## Further reading
 
 If you want to read more about the things mentioned in this article, check out these links:
 

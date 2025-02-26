@@ -1,5 +1,5 @@
 ---
-date   2013-10-25 17:00:00
+date: 2013-10-25 17:00:00
 ---
 
 You’ve been in the same job for a while and you’re pretty comfortable. Your work doesn’t vary much from day to day and you’re quite settled there. You don’t do too much coding outside of work; why would you? You spend eight hours a day writing code already, right?
@@ -12,7 +12,7 @@ Here’s what I think we all need to be doing to stay current and keep ourselves
 
 
 
-# 1. Have side projects
+## 1. Have side projects
 
 Unless you are unusual, your day job probably means you work in similar technologies and with similar frameworks every day. Side projects give you the opportunity to work with things that you would not be exposed to normally, keeping your skills fresh.
 
@@ -20,7 +20,7 @@ Work on something interesting in your own time
 
 
 
-# 2. Read a lot
+## 2. Read a lot
 
 Read blogs like this one, and others like it. Read books, read questions on StackOverflow, read news sites and read other people’s code on GitHub.
 
@@ -30,7 +30,7 @@ Read everything
 
 
 
-# 3. Get out there and network
+## 3. Get out there and network
 
 Look for groups of developers that meet in your area; it’s is a great way to meet people you would never normally come in to contact with.
 
@@ -42,7 +42,7 @@ Meet other people in your industry.
 
 
 
-# 4. Contribute to the open-source community
+## 4. Contribute to the open-source community
 
 Working on your own side projects can sometimes become stale. With no definite end goal or purpose it is easy to drop it when you get bored. This is not necessarily a bad thing, but you might prefer the sense of purpose that comes from working on an established open-source project; with real bug reports and real feature requests.
 
@@ -52,7 +52,7 @@ Contribute to an open source project, or start your own.
 
 
 
-# 5. Use Twitter
+## 5. Use Twitter
 
 Twitter is the collective voice of the software/web industry.
 

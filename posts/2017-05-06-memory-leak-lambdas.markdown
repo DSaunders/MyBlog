@@ -1,5 +1,5 @@
 ---
-date   2017-05-06 10:00:00
+date: 2017-05-06 10:00:00
 ---
 
 
@@ -10,7 +10,7 @@ If you use multiple lambda expressions within the same scope (a method, for exam
 
 In other words; that lambda expression that references the huge array, but is only used in the scope of the method, won't be disposed when the method returns like you expect.. it will hang around until the last lambda created in that method is collected.
 
-# Why your local variable is heap-allocated
+## Why your local variable is heap-allocated
 
 Lambda expressions don't actually exist in the CLR, they are compiler magic, so we have to do something with them in order for the runtime to understand them.
 
@@ -28,7 +28,7 @@ Here's the catch though - if you use multiple lambda expressions in the same met
 
 Let's look at an example..
 
-# Leaky lambda expressions in practice
+## Leaky lambda expressions in practice
 
 ```csharp
 public class MyClass

@@ -1,5 +1,5 @@
 ---
-date   2013-09-25 17:00:00
+date: 2013-09-25 17:00:00
 ---
 
 Everybody has their threshold, the point where the nice shiny new DevOps process goes out of the window  and it’s just easier to do it the old way.
@@ -10,7 +10,7 @@ When we cross this threshold we try to justify it to ourselves; ‘it was too ur
 
 
 
-# Humans are lazy, developers are efficient.. we are both.
+## Humans are lazy, developers are efficient.. we are both.
 
 Humans are programmed to be lazy.  Why expend needless effort doing it the long way when we can do it quicker and move on to something else?  We will always tend towards the path of least resistance.
 
@@ -20,7 +20,7 @@ We can resist these instincts for a while if we know the harder way is the right
 
 
 
-# The 5to5 test
+## The 5to5 test
 
 With that in mind, I would like to propose a new metric to measure the maturity of a DevOps process.  The ’5to5 test’.
 
@@ -29,7 +29,7 @@ The test is simple:
 When it’s 5 minutes to 5 o’clock on a Friday afternoon and you need to get home for the weekend, is it easier to use your new process or just do it ‘the old way’?
 
 
-# Passing the 5 to 5 test.
+## Passing the 5 to 5 test.
 
 There are two ways to make sure your process passes the test; make the new process easier or make the old process harder.
 
