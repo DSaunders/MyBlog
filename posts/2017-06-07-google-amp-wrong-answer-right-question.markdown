@@ -12,7 +12,7 @@ The site is cached on Google's server, meaning the page is served from their cac
 
 AMP Pages look like this when they appear in search results:
 
-![image](https://github.com/user-attachments/assets/77752327-f383-4fd2-8037-3c3aa6e04908)
+![image](https://github.com/user-attachments/assets/860d93cb-b440-4f74-b31b-ff0a5bf4698d)
 
 
 Google are trying to solve the **right problem**. We're seeing web pages getting [larger and larger](https://www.wired.com/2016/04/average-webpage-now-size-original-doom/). That's fine on a desktop machine with fast internet, but costly and frustrating on mobile devices with poor or intermittent connections.
