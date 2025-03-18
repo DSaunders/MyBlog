@@ -4,7 +4,12 @@ This is a test post I can use to add formatting and see what it looks like
 
 ## General Styling
 
+Here is an example of a quote:
+
 > This is a block quote
+> It has two lines
+
+This is the paragraph after a block quote
 
 ## Links
 
