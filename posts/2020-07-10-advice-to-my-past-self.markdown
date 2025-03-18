@@ -1,5 +1,6 @@
 ---
 date: 2020-07-10 17:00:00
+description: This is my advice to my past self, and other self-taught programmers just starting out.
 ---
 
 # Advice to my past self
