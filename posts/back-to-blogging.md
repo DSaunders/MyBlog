@@ -40,7 +40,7 @@ That's why I built the [thing you are reading this post on](https://gitsite.io/)
 
 The irony is not lost on me... updating an existing blog was too much work, so instead I built a complete blog engine.. but here we are.
 
-(while I built it for my benefit, I've opened it up so anybody can do the same thing. Take a look if you also want to start blogging again!)
+<sup>(while I built it for my benefit, I've opened it up so anybody can do the same thing. Take a look if you also want to start blogging again!)</sup>
 
 ## What now?
 
