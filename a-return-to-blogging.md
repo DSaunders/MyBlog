@@ -10,7 +10,7 @@ Recently, I found my old posts in GitHub. They date back 12 years, and it was fa
 
 The version of me who wrote that first blog post in 2013 would still agree with current-me on most things. I still believe code quality is a worthwhile investment, that 'agile' is more than just implementing Scrum, and that copy/pasting files over FTP is not the correct way to deploy to production (we were doing some wild things in 2013, weren't we!).
 
-I have more experience now though. I'm a little older, and think I'm a little better at seeing both sides of a debate (not about FTP-deployments to production though... I stand by that one!)
+I have more experience now though. I'm a little older, and I hope I'm a little better at seeing both sides of a debate (not about FTP-deployments to production though... I stand by that one!)
 
 ## Why write on the internet?
 
