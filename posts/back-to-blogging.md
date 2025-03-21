@@ -20,7 +20,7 @@ Of course, 'the world' rarely saw anything I wrote. Sometimes my writing would b
 
 Posting on the internet was the end goal, but the real benefit was the process of writing it down in the first place.
 
-Knowing that my name was against something would make me check every fact in more detail. If I was presenting an opinion, I would really try and understand both sides, anticipating the Reddit comments and how I would deflect them. If I was writing anything technical, I would try and learn every detail to make sure I wasn't leading any readers astray.
+Knowing that my name was against something would make me check every fact in more detail. If I was presenting an opinion, I would really try and understand both sides, anticipating the Reddit comments and how I would deflect them. If I was writing anything technical, I would try and learn every detail to make sure I wasn't leading readers astray.
 
 As Feynman said:
 
