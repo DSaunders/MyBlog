@@ -10,13 +10,13 @@ Recently, I found my old posts in GitHub. They date back 12 years, and it was fa
 
 The version of me who wrote that first blog post in 2013 would still agree with current-me on most things. I still believe code quality is a worthwhile investment, that 'agile' is more than just implementing Scrum, and that copy/pasting files over FTP is not the correct way to deploy to production (we were doing some wild things in 2013, weren't we!).
 
-I have more experience now though. I'm a little older, and think I'm a little better at seeing both sides of a debate (not about FTP-deployments to production though.. I stand by that one!)
+I have more experience now though. I'm a little older, and think I'm a little better at seeing both sides of a debate (not about FTP-deployments to production though... I stand by that one!)
 
 ## Why write on the internet?
 
 There's something cathartic about writing things down and publishing them on the internet for the world to see.
 
-Of course, 'the world' rarely saw anything I wrote. Sometimes my writing would be posted on Hacker News and trigger a debate. More often, nobody would read them... but it didn't matter.
+Of course, 'the world' rarely saw anything I wrote. Sometimes my writing would be posted on Hacker News and trigger a debate. More often, nobody would read them, but it didn't matter.
 
 Posting on the internet was the end goal, but the real benefit was the process of writing it down in the first place.
 
@@ -38,7 +38,7 @@ I realised that if I was going to blog again, I'd need something as simple as wr
 
 That's why I built the [thing you are reading this post on](https://gitsite.io/) - a site where I can commit a markdown file to a git repository and have it published as a blog post. No static site generators or dependencies to manage, just `git push` and there it is.
 
-(while I built it for my benefit, I've opened it up so anybody can do the same thing)
+(while I built it for my benefit, I've opened it up so anybody can do the same thing. Take a look if you also want to start blogging again!)
 
 The irony is not lost on me... updating an existing blog was too much work so instead I built a complete blog engine.. but here we are.
 
