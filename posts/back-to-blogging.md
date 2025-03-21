@@ -2,7 +2,7 @@
 date: 2025-03-21 18:00
 ---
 
-# Returning to blogging after 5 years
+# Back to blogging
 
 It has been 5 years since my last blog post.
 
