@@ -36,11 +36,11 @@ The longer I left it between blog posts, the harder it was to re-start. I'd have
 
 I realised that if I was going to blog again, I'd need something as simple as writing a tweet or a chat message.
 
-That's why I built the [thing you are reading this post on](https://gitsite.io/) - a site where I can commit a markdown file to a git repository and have it published as a blog post. No static site generators or dependencies to manage, just `git push` and there it is.
+That's why I built the thing you are reading this post on - a site where I can commit a markdown file to a git repository and have it published as a blog post. No static site generators or dependencies to manage, just `git push` and there it is.
 
 The irony is not lost on me... updating an existing blog was too much work, so instead I built a complete blog engine.. but here we are.
 
-<sup>(while I built it for my benefit, I've opened it up so anybody can do the same thing. Take a look if you also want to start blogging again!)</sup>
+<sup>(while I built it for my benefit, I've opened it up so anybody can do the same thing. [Take a look](https://gitsite.io/) if you also want to start blogging again!)</sup>
 
 ## What now?
 
