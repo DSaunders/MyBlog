@@ -38,10 +38,9 @@ I realised that if I was going to blog again, I'd need something as simple as wr
 
 That's why I built the [thing you are reading this post on](https://gitsite.io/) - a site where I can commit a markdown file to a git repository and have it published as a blog post. No static site generators or dependencies to manage, just `git push` and there it is.
 
-(while I built it for my benefit, I've opened it up so anybody can do the same thing. Take a look if you also want to start blogging again!)
-
 The irony is not lost on me... updating an existing blog was too much work, so instead I built a complete blog engine.. but here we are.
 
+(while I built it for my benefit, I've opened it up so anybody can do the same thing. Take a look if you also want to start blogging again!)
 
 ## What now?
 
